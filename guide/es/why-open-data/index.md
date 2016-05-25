@@ -7,25 +7,25 @@ title: ¿Por qué datos abiertos?
 
 term
 
-:   'Datos Abiertos', especialmente :term: 'datos abiertos de gobierno', es un gran recurso, aunque todavía no ha sido explotado. Muchos individuos y organizaciones reúnen una gran variedad de diferentes tipos de datos para llevar a cabo sus tareas. Gobiernos es particularmente importante en este aspecto, por la cantidad y centralidad de datos que reúne, pero también porque la mayor parte de la información gubernamental es pública por ley, y por lo tanto puede ser abierta y ponerse a disposición de otros. ¿Por qué es esto de interés?
+:Los 'Datos Abiertos', especialmente los 'datos de gobierno abierto', son un gran recurso, aunque todavía no ha sido explotado. Muchos individuos y organizaciones reúnen una gran variedad de tipos diferentes de datos para llevar a cabo sus tareas. El Gobierno es particularmente importante en este aspecto, por la cantidad y centralidad de datos que reúne, pero también porque la mayor parte de la información gubernamental es pública por ley, y por lo tanto puede ser abierta y ponerse a disposición de otros. ¿Por qué esto es interesante?
 
-Existen muchas áreas donde podemos esperar que los datos abiertos sean valiosos, y donde los ejemplos de cómo ha sido usado ya existan. Existen también diferentes grupos de personas y organizaciones que pueden beneficiarse de la disponibilidad de datos abiertos, incluido el mismo gobierno. Al mismo tiempo es imposible predecir con exactitud cómo y dónde será creado el valor en el futuro. La naturaleza de las innovaciones es que su desarrollo frecuentemente proviene de los lugares más inverosímiles.
+Existen muchas áreas donde podemos esperar que los datos abiertos sean valiosos, y donde existan ejemplos de cómo han sido usados. También hay diferentes grupos de personas y organizaciones que pueden beneficiarse de la disponibilidad de datos abiertos, incluido el propio gobierno. Al mismo tiempo es imposible predecir con exactitud cómo y dónde se creará valor en el futuro. La naturaleza de las innovaciones es que su desarrollo frecuentemente proviene de los lugares más inverosímiles.
 
 Ya es posible apuntar a un gran número de áreas donde los gobiernos abiertos están creando valor. Algunas de estas áreas incluyen:
 
 - Transparencia y control democráctico
 - Participación 
 - Autoempoderamiento
-- Mejoramiento o creación de nuevos productos y servicios 
+- Mejora o creación de nuevos productos y servicios 
 - Innovación
-- Mejoramiento en la eficiencia de los servicios ofrecidos por el gobierno
-- Mejoramiento en la eficacia de los servicios ofrecidos por el gobierno
+- Mejora en la eficiencia de los servicios ofrecidos por el gobierno
+- Mejora en la eficacia de los servicios ofrecidos por el gobierno
 - Medición del impacto de políticas 
 - Nuevos conocimientos a partir de fuentes de datos combinadas y patrones en grandes volúmenes de datos
 
 Existen ejemplos en la mayoría de estas áreas.
 
-En términos de transparencia, proyectos como el finlandés *"tax tree"* y el británico *"Where does my money goes?"* muestran cómo el Gobierno está gastando el dinero de tus impuestos. También está el ejemplo de cómo los Datos Abiertos hicieron que el Gobierno de Canadá ahorrara 3.2 millones de dólares que de manera fraudulenta se deducían de los impuestos como donaciones de caridad. Varios sitios web, como el danés folketsting.dk, siguen las actividades en el Parlamento y el proceso de formulación de leyes para que puedas ver exactamente qué está pasando y qué Miembros del Parlamento están involucrados.
+En términos de transparencia, proyectos como el finlandés *"tax tree"* y el británico *"Where does my money go?"* muestran cómo el Gobierno está gastando el dinero de nuestros impuestos. También está el ejemplo de cómo los Datos Abiertos hicieron que el Gobierno de Canadá ahorrara 3,2 millones de dólares que, de manera fraudulenta, se deducían de los impuestos como donaciones de caridad. Varios sitios web, como el danés folketsting.dk, siguen las actividades en el Parlamento y el proceso de formulación de leyes para que puedas ver exactamente qué está pasando y qué Miembros del Parlamento están involucrados.
 
 Los datos abiertos también pueden ayudarte a tomar mejores decisiones en tu vida, o a tener un rol más activo en la sociedad. Una mujer en Dinamarca desarrolló findtoilet.dk que muestra todos los baños públicos daneses, para que personas que ella sabía tenían problemas de vejiga pudieran salir más seguido. En los Países Bajos está disponible un servicio, vervuilingsalarm.nl, que te avisa con un mensaje si la calidad del aire en tus inmediaciones alcanzará, al día siguiente, el umbral que previamente definiste. En Nueva York puedes saber fácilmente dónde puedes pasear a tu perro, así como también encontrar otras personas que usan los mismos parques. Servicios como *"Mapumental"* en el Reino Unido y *"Mapnificent"* en Alemania te permiten encontrar lugares donde vivir tomando en cuenta la duración del viaje hasta tu trabajo, precios de viviendas y cuán bella es el área. Todos estos ejemplos usan Datos Abiertos.
 
