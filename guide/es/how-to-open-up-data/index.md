@@ -9,11 +9,11 @@ Esta sección constituye el núcleo de este manual. Le da consejos concretos y d
 
 Existen tres reglas clave que recomendamos seguir en la apertura de datos:
 
--   **Mantenlo simple.** Inicia con lo pequeño, sencillo y rápido. No hay requisito que los conjuntos de datos deben tener en este momento. Inicie abriendo sólo un conjunto de datos, o incluso una parte de un conjunto de datos grande, esta muy bien -- y claro, entre más conjuntos de datos pueda abrir, mejor.
+-   **Mantenlo simple.** Empieza con lo pequeño, sencillo y rápido. No hay ningún requisito para que todos los conjuntos de datos tengan que estar abiertos ahora mismo. Empiece abriendo solo un conjunto de datos, o incluso una parte de un conjunto de datos grande está bien- Por supuesto, cuantos más conjuntos de datos pueda abrir, mejor.
 
-> Recuerda que esto es acerca de la innovación. Moverse tan rápido como puedes es bueno porque significa que puedes crear impulso y aprender de la experiencia -- la innovación es tanto sobre el fracaso como el éxito y no todo dataset será útil.
+> Recuerde que esto es acerca de la innovación. Moverse tan rápido como pueda es bueno porque significa que puede crear impulso y aprender de la experiencia -- la innovación es tanto sobre el fracaso como el éxito y no todo dataset será útil.
 
--   **Comprometerse temprano y comprometerse con frecuencia** Comprometerse con los usuarios reales y potenciales, y en cambio usuarios de los datos tan pronto y tan a menudo como pueda, ya sean ciudadanos, empresas o desarrolladores. Esto asegurará que la próxima versión de su servicio sea tan relevante como pueda ser.
+-   **Implícate temprano y implícate con frecuencia** Comprometerse con los usuarios reales y potenciales, y en cambio usuarios de los datos tan pronto y tan a menudo como pueda, ya sean ciudadanos, empresas o desarrolladores. Esto asegurará que la próxima versión de su servicio sea tan relevante como pueda ser.
 
 > Es esencial tener en cuenta que gran parte de los datos no llegarán a los usuarios finales directamente, sino que a través de "info-mediarios". Estas son las personas que toman los datos y la transforman para presentarla. Por ejemplo, la mayoría de nosotros no quiere o necesita una gran base de datos de las coordenadas GPS, preferiríamos un mapa. Por lo tanto, comprometerse con infomediarios en primer lugar. Ellos volverán a utilizar y reutilizar el material.
 
